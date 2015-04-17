@@ -10,3 +10,4 @@ Time from https://www.pjrc.com/teensy/td_libs_Time.html
 
 PubSubClient from http://knolleary.net/arduino-client-for-mqtt/
 
+The display currently offers two menus. The first 'display' shows the time and date (determined from an ntp server) and ip address. The second 'weather' displays the current temperature and humidity from a Sparkfun Weather Board, see https://github.com/greenthegarden/MqttWiFlyWeatherBoard.
