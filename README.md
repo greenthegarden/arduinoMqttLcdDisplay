@@ -2,7 +2,7 @@
 
 Display data published by a MQTT broker on a 16x2 LCD Display connected to an Arduino with Ethernet connection.
 
-The configuration I use is an [Freetronics Etherten] (http://www.freetronics.com.au/collections/ethernet/products/etherten) board connected to a [Freetronics LCD & Keypad Shield] (http://www.freetronics.com.au/products/lcd-keypad-shield).
+The configuration I use is a [Freetronics Etherten] (http://www.freetronics.com.au/collections/ethernet/products/etherten) board connected to a [Freetronics LCD & Keypad Shield] (http://www.freetronics.com.au/products/lcd-keypad-shield).
 
 The following libraries are required which are not included with the Arduino IDE:
 
